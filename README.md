@@ -16,29 +16,13 @@ The system uses historical data from various startups to predict future profit. 
 ## Technologies Used
 
 - **Python 3.x**: Core language for backend logic.
-- **Django**: Web framework used for building the application.
+- **Streamlit**: Python-baded library for designing the application UI.
 - **Pandas**: Used for data manipulation and analysis.
 - **Scikit-learn**: Utilized for building predictive models.
 - **Matplotlib / Seaborn**: For data visualization and graphical representation of results.
 
-## Usage
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-
-## Folder Structure:
-├── profitpredict
-│   ├── predict.py
-│   ├── README.md
-│   ├── requirements.txt
-│   ├── app_name/
-│   └── templates/
-│       └── index.html
-└── datasets/
-    └── 50_Startups.csv
-
 ## Contributing
+
 - Fork the repository.
 - Create a new branch for your feature.
 - Commit your changes.
